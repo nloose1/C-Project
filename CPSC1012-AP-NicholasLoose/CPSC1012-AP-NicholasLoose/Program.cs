@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Need to change paths to files in Part1, Part2 and Part4
+//Need to change paths to files in Part1, Part2 and Part4.
 
 namespace CPSC1012_AP_NicholasLoose
 {
